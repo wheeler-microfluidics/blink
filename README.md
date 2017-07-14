@@ -1,3 +1,4 @@
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/blink?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/blink?branch=master&svg=true)
 # `blink` #
 
 This project demonstrates how an Arduino sketch may be distributed as a Python package.
